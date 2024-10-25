@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Selenium,Katalon Studio**
 
 - 🌱 I’m currently learning **Testing Katalon**
-
-- 💬 Ask me about **UX/UI, Front-End**
 
 - 📫 How to reach me **vohoangminhan2508@gmail.com**
 
